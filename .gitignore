@@ -1,0 +1,9 @@
+/node_modules
+.hfc-key-store
+.tineola-rc
+*.pem
+*.key
+*.retry
+*.log
+/.vagrant
+/.idea
