@@ -1,11 +1,13 @@
 # Introducing Tineola
+
+**Read the [Whitepaper](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf)**
+
 Tineola is a red team tool for interfacing with **Hyperledger Fabric** deployments, networks, and chaincodes.
 Tineola is designed to work in as many configurations as possible, and require only the bare minimum configuration to get started.
 Tineola also ships with *tineolacc*, special chaincode for performing evil peer attacks.
 
-This tool was originally released on Aug 12, 2018 at DefCon 26 by [Stark Riedesel](https://github.com/starkriedesel), [Parsia Hakimian](https://parsiya.net), Travis Biehn, and Koen Buyens.
+This tool was originally released on Aug 12, 2018 at DefCon 26 by [Stark Riedesel](https://github.com/starkriedesel), [Parsia Hakimian](https://parsiya.net), Koen Buyens, and Travis Biehn.
 
-The Tineola Whitepaper accompaning the release of the tool can be found on [Github](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf).
 
 # Installing Tineola
 Tineola requires NodeJS 8.x or newer.
