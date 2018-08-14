@@ -2,6 +2,8 @@
 
 **Read the [Whitepaper](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf)**
 
+![Tineola Logo](docs/tineola_logo.png)
+
 Tineola is a red team tool for interfacing with **Hyperledger Fabric** deployments, networks, and chaincodes.
 Tineola is designed to work in as many configurations as possible, and require only the bare minimum configuration to get started.
 Tineola also ships with *tineolacc*, special chaincode for performing evil peer attacks.
