@@ -1,6 +1,6 @@
 # Introducing Tineola
 
-**Read the [Whitepaper](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf)**
+**Read the [Whitepaper](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf) and [DEFCON 26 Slides](/docs/Tineola-Slides-Defcon26.pdf).**
 
 ![Tineola Logo](docs/tineola_logo.png)
 
