@@ -2,6 +2,10 @@
 
 **Read the [Whitepaper](https://github.com/tineola/tineola/raw/master/docs/TineolaWhitepaper.pdf) and [DEF CON 26 Slides](/docs/Tineola-Slides-Defcon26.pdf).**
 
+Watch the DEF CON talk on Youtube:
+
+* https://www.youtube.com/watch?v=xKYIde5jh_8
+
 [Comitting insurance fraud with Tineola](https://github.com/tineola/tineola/wiki/Committing-Insurance-Fraud-with-Tineola) is a hands-on tutorial to hack the insurance app. It's a step-by-step guide to recreating the presentation demos.
 
 ![Tineola Logo](docs/tineola_logo.png)
