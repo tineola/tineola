@@ -18,7 +18,7 @@ This tool was originally released on Aug 12, 2018 at DefCon 26 by [Stark Riedese
 
 
 # Installing Tineola
-Tineola requires NodeJS 8.x or newer.
+Tineola requires NodeJS 8.x only. 10.x fails to validate GRPC/S certificates correctly when we override them in code and 12.x is not supported by the x509 parsing package we use.
 1. git clone https://github.com/tineola/tineola
 2. cd tineola; npm install
 3. cd bin; ./tineola.js
